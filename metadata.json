@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Ajit  Fitness AI",
+  "description": "A modern gym website featuring a polite, real-time AI voice receptionist named Aria powered by Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
